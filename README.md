@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh Raj
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Html and Css
+- 🌱 I’m currently learning Html and Css and web designing in wordpress
 - 💞️ I’m looking to collaborate on coll website projects
 - 📫 How to reach me Instagram-rishabh_0424
 

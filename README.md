@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh Raj
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and CSS and web designing in wordpress
+- 🌱 Completed Frontend stuffs and learning designing and plans to start backend after that
 - 📫 Reach me through Instagram- @rishabh_0424
 
 <!---

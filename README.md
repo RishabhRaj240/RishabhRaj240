@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rishabh Raj
-- 👀 I’m interested in web development
-- 🌱 Completed Frontend stuffs and learning designing and plans to start backend after that
+- 👀 Focus on Frintend
 - 📫 Reach me through Instagram- @rishabh_0424
 
 <!---

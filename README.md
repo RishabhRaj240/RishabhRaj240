@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishabh Raj
-- 👀 Focus on Frintend
+- 👀 Aspiring Full stack web developer
 - 📫 Reach me through Instagram- @rishabh_0424
 
 <!---

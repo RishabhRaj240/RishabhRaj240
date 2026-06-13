@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh Raj
 - 👀 Aspiring Full stack web developer
-- 📫 Reach me through Instagram- @rishabh_0424
+- 📫 Reach me through LinkedIn- @rishab-raj-0028622b4
 
 <!---
 RishabhRaj240/RishabhRaj240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

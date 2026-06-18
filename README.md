@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishabh Raj
-- 👀 Aspiring Full stack web developer
+-    Web Developer
 - 📫 Reach me through LinkedIn- @rishab-raj-0028622b4
 
 <!---

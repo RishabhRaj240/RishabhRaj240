@@ -1,4 +1,4 @@
-- Hi, I’m @Rishabh Raj
+- Hi, I’m @Rishab Raj
 - Web Developer
 - 📫 Reach me through LinkedIn- @rishab-raj-0028622b4
 

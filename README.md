@@ -172,18 +172,20 @@ A pollution-tracking project developed for a hackathon, focused on environmental
 <div align="center">
 
 <a href="https://github.com/RishabhRaj240">
-  <img src="https://img.shields.io/badge/GitHub-RishabhRaj240-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishabhRaj240&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/RishabhRaj240">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRaj240&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/RishabhRaj240?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories"/>
-</a>
+<img width="70%" src="<img width="767" height="206" alt="Screenshot 2026-10-29 at 11 56 49 PM" src="https://github.com/user-attachments/assets/c46f33f0-f453-4643-9da9-1ef4c3ba4288" />
+" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
-**Building consistently. Learning continuously. Improving with every commit.** 🚀
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhRaj240&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 

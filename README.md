@@ -171,9 +171,6 @@ A pollution-tracking project developed for a hackathon, focused on environmental
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishabhRaj240&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRaj240&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=RishabhRaj240&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>

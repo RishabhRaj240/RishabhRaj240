@@ -172,19 +172,18 @@ A pollution-tracking project developed for a hackathon, focused on environmental
 <div align="center">
 
 <a href="https://github.com/RishabhRaj240">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishabhRaj240&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/RishabhRaj240">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRaj240&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/GitHub-RishabhRaj240-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=RishabhRaj240&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/RishabhRaj240?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhRaj240&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+**Building consistently. Learning continuously. Improving with every commit.** 🚀
 
 </div>
 

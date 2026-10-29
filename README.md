@@ -171,21 +171,16 @@ A pollution-tracking project developed for a hackathon, focused on environmental
 
 <div align="center">
 
-<a href="https://github.com/RishabhRaj240">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishabhRaj240&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/RishabhRaj240">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRaj240&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishabhRaj240&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRaj240&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="<img width="767" height="206" alt="Screenshot 2026-10-29 at 11 56 49 PM" src="https://github.com/user-attachments/assets/c46f33f0-f453-4643-9da9-1ef4c3ba4288" />
-" alt="GitHub Contribution Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=RishabhRaj240&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhRaj240&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+<img width="767" height="206" alt="Github 2026 Streaks" src="https://github.com/user-attachments/assets/52dd8221-0d96-4acd-9a88-1a6fd045f2bb" />
 
 </div>
 
